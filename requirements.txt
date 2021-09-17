@@ -1,5 +1,6 @@
 celery[redis]==5.1.2
 requests
 jupyterlab
+flask==2.0.1
 
 
